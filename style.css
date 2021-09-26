@@ -1,0 +1,40 @@
+body {
+
+    background-color: #ecf4f9 !important;
+    font-family: "Montserrat " !important;
+    padding-top: 50px;
+}
+/* .hello {
+    font-size: 50px;
+} */
+.img-hor {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    height: 50% !important;
+    width: auto !important;
+}
+.text {
+    padding-right: 100px !important;
+}
+image {
+        padding-left: 5rem !important;
+}
+.section {
+    box-sizing: unset;
+}
+.copyright {
+    height: 10px !important;
+    width: 10px !important;
+}
+.copy {
+    height: 30px !important;
+    width: 30px !important;
+}
+
+.black {
+    color: black !important;
+}
